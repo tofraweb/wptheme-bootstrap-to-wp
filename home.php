@@ -11,8 +11,8 @@
 
         <?php
           $args = array(
-            'post_type' => 'post',
-            'category_name' => 'travel'
+            'post_type' => 'post'
+            //'category_name' => 'travel'
           );
           $the_query = new WP_Query($args);
         ?>
