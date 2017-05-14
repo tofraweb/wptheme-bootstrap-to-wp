@@ -43,13 +43,6 @@
               </div>
             </div>
             <?php endwhile; endif; ?>
-            <div class="item">
-              <img src="..." alt="...">
-              <div class="carousel-caption">
-                ...
-              </div>
-            </div>
-            ...
           </div>
 
           <!-- Controls -->
